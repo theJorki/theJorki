@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theJorki
-- 👀 I’m interested in gaming and gamedesign and gamedevelopment.
+- 👀 I’m interested in gaming, gamedesign and gamedevelopment.
 - 🌱 I’m currently learning VR-development in Unity.
 - 📫 How to reach me ...
 
